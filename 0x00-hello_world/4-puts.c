@@ -1,8 +1,11 @@
-# !/ bin / bash
 #include <stdio.h>
+/**
+ * main - Entry
+ * Return: Alwaya 0
+ */
 int main(void)
 {
-puts("Programming is like
-building a multilingual puzzle\n");
-return (0);
+	put("\"Programming is like building a multili
+ngual puzzle");
+	return (0);
 }

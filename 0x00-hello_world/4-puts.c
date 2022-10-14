@@ -1,12 +1,13 @@
-#!/bin/bash
 #include <stdio.h>
+
+
 /**
  * main - Entry
- * Return: Alwaya 0
+ * Return: Always 0 (success)
  */
 int main(void)
 {
-	put("\"Programming is like building a multili
+	puts("\"Programming is like building a multili
 ngual puzzle");
 	return (0);
 }

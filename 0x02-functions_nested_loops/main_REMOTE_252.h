@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-#ifndef MAIN.H
-#define MAIN-H
-=======
 #ifndef MAIN_H
 #define MAIN_H
->>>>>>> 14a6bca28b3fd57da32a0ecee2a50a3d7d59b576
 
 char _putchar(char c);
 void print_alphabet(void);

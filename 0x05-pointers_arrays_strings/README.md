@@ -1,0 +1,1 @@
+0x05 pointer array and string
